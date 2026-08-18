@@ -269,7 +269,7 @@ For production deployment, ensure:
 
 ### Frontend cannot connect to backend
 - Make sure the backend is running on port 3000
-- Confirm the frontend is pointing to `http://localhost:4000`
+- Confirm the frontend is pointing to `http://localhost:3000`
 - Check browser console and backend terminal logs
 
 ### AWS health endpoint fails
